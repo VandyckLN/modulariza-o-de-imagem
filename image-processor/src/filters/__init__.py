@@ -1,0 +1,1 @@
+# Este arquivo inicializa o módulo de filtros.
